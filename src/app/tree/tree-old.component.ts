@@ -11,8 +11,9 @@ export class TreeComponent implements OnInit {
 
   ngOnInit(): void {
 
-    console.log("hi, im a message from br1 tree comonent - I was duplicaed from an old file")
-  }
+    console.log("Hi, i'm a message from a file created in the master branch but renamed in br1!");
 
+
+  }
 
 }
